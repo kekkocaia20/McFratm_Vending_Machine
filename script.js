@@ -215,3 +215,7 @@ async function generaPDFScontrino() {
   acquisti = [];
 }
 
+function showContent() {
+  document.getElementById("mainContent").style.display = "block";
+}
+
